@@ -7,6 +7,7 @@ for (let i=0 ; i < one.length ; i++){
 }
 console.log("testing git clone")
 console.log("sum is " +sum)
+Console.log("this change is in Git Demo develop branch")
 
 let total = one.reduce((sum,two)=>sum+two,0)
 console.log("total is ", total)

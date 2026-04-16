@@ -12,3 +12,4 @@ let total = one.reduce((sum,two)=>sum+two,0)
 console.log("total is ", total)
 let newArray = one.filter(one=>one%2==0)
 console.log("new array is " + newArray)
+console.log("hello");
